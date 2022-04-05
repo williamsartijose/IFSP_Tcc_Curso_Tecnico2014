@@ -4,6 +4,7 @@
 # Sobre o projeto
 
 Para conferir acesse o link do projeto dentro do netlify do Front end: https://www.youtube.com/watch?v=imeGFaqCuPo&t=210s
+Parte escrita do TCC https://drive.google.com/file/d/1dZBvh_mrU156m3F7bBDtnv1KsJjZxrNN/view?usp=sharing
 
 
 Desenvolvido no curso Técnico em Manutenção e Suporte em Informática, pela isntituição federal de São paulo IFSP 
