@@ -1,0 +1,387 @@
+c:\users\wsj\documents\visual studio 2013\Projects\TCC\TCC\bin\Debug\TCC.exe.config
+c:\users\wsj\documents\visual studio 2013\Projects\TCC\TCC\bin\Debug\TCC.exe
+c:\users\wsj\documents\visual studio 2013\Projects\TCC\TCC\bin\Debug\TCC.pdb
+c:\users\wsj\documents\visual studio 2013\Projects\TCC\TCC\obj\Debug\TCC.csprojResolveAssemblyReference.cache
+c:\users\wsj\documents\visual studio 2013\Projects\TCC\TCC\obj\Debug\TCC.Form1.resources
+c:\users\wsj\documents\visual studio 2013\Projects\TCC\TCC\obj\Debug\TCC.frmLogin.resources
+c:\users\wsj\documents\visual studio 2013\Projects\TCC\TCC\obj\Debug\TCC.Properties.Resources.resources
+c:\users\wsj\documents\visual studio 2013\Projects\TCC\TCC\obj\Debug\TCC.csproj.GenerateResource.Cache
+c:\users\wsj\documents\visual studio 2013\Projects\TCC\TCC\obj\Debug\TCC.exe
+c:\users\wsj\documents\visual studio 2013\Projects\TCC\TCC\obj\Debug\TCC.pdb
+c:\users\wsj\documents\visual studio 2013\Projects\TCC\TCC\obj\Debug\TCC.frmMenu.resources
+c:\users\wsj\documents\visual studio 2013\Projects\TCC\TCC\obj\Debug\TCC.frmCliente.resources
+C:\Users\WSJ\Desktop\Nova pasta (4)\TCC\TCC\bin\Debug\TCC.exe.config
+C:\Users\WSJ\Desktop\Nova pasta (4)\TCC\TCC\obj\Debug\TCC.exe
+C:\Users\WSJ\Desktop\Nova pasta (4)\TCC\TCC\obj\Debug\TCC.pdb
+C:\Users\WSJ\Desktop\Nova pasta (4)\TCC\TCC\bin\Debug\TCC.exe
+C:\Users\WSJ\Desktop\Nova pasta (4)\TCC\TCC\bin\Debug\TCC.pdb
+C:\Users\WSJ\Desktop\Nova pasta (4)\TCC\TCC\obj\Debug\TCC.csprojResolveAssemblyReference.cache
+C:\Users\WSJ\Desktop\Nova pasta (4)\TCC\TCC\obj\Debug\TCC.Form1.resources
+C:\Users\WSJ\Desktop\Nova pasta (4)\TCC\TCC\obj\Debug\TCC.frmCliente.resources
+C:\Users\WSJ\Desktop\Nova pasta (4)\TCC\TCC\obj\Debug\TCC.frmLogin.resources
+C:\Users\WSJ\Desktop\Nova pasta (4)\TCC\TCC\obj\Debug\TCC.frmMenu.resources
+C:\Users\WSJ\Desktop\Nova pasta (4)\TCC\TCC\obj\Debug\TCC.frmPoduto.resources
+C:\Users\WSJ\Desktop\Nova pasta (4)\TCC\TCC\obj\Debug\TCC.Properties.Resources.resources
+C:\Users\WSJ\Desktop\Nova pasta (4)\TCC\TCC\obj\Debug\TCC.csproj.GenerateResource.Cache
+C:\Users\WSJ\Desktop\Nova pasta (4)\TCC\TCC\obj\Debug\TCC.frmVendas.resources
+C:\Users\WSJ\Desktop\Nova pasta (4)\TCC\TCC\obj\Debug\TCC.Consulta.resources
+C:\Users\WSJ\Desktop\Nova pasta (4)\TCC\TCC\obj\Debug\TCC.relProduto.resources
+C:\Users\WSJ\Desktop\Nova pasta (4)\TCC\TCC\obj\Debug\RdlCompile.cache
+C:\Users\WSJ\Desktop\Nova pasta (4)\TCC\TCC\obj\Debug\RdlCompile.compiled
+C:\Users\WSJ\Desktop\Nova pasta (4)\Nova pasta\TCC\TCC\bin\Debug\TCC.exe.config
+C:\Users\WSJ\Desktop\Nova pasta (4)\Nova pasta\TCC\TCC\obj\Debug\TCC.exe
+C:\Users\WSJ\Desktop\Nova pasta (4)\Nova pasta\TCC\TCC\obj\Debug\TCC.pdb
+C:\Users\WSJ\Desktop\Nova pasta (4)\Nova pasta\TCC\TCC\bin\Debug\TCC.exe
+C:\Users\WSJ\Desktop\Nova pasta (4)\Nova pasta\TCC\TCC\bin\Debug\TCC.pdb
+C:\Users\WSJ\Desktop\Nova pasta (4)\Nova pasta\TCC\TCC\obj\Debug\TCC.csprojResolveAssemblyReference.cache
+C:\Users\WSJ\Desktop\Nova pasta (4)\Nova pasta\TCC\TCC\obj\Debug\TCC.Consulta.resources
+C:\Users\WSJ\Desktop\Nova pasta (4)\Nova pasta\TCC\TCC\obj\Debug\TCC.Form1.resources
+C:\Users\WSJ\Desktop\Nova pasta (4)\Nova pasta\TCC\TCC\obj\Debug\TCC.frmCliente.resources
+C:\Users\WSJ\Desktop\Nova pasta (4)\Nova pasta\TCC\TCC\obj\Debug\TCC.frmLogin.resources
+C:\Users\WSJ\Desktop\Nova pasta (4)\Nova pasta\TCC\TCC\obj\Debug\TCC.frmMenu.resources
+C:\Users\WSJ\Desktop\Nova pasta (4)\Nova pasta\TCC\TCC\obj\Debug\TCC.frmPoduto.resources
+C:\Users\WSJ\Desktop\Nova pasta (4)\Nova pasta\TCC\TCC\obj\Debug\TCC.frmVendas.resources
+C:\Users\WSJ\Desktop\Nova pasta (4)\Nova pasta\TCC\TCC\obj\Debug\TCC.Properties.Resources.resources
+C:\Users\WSJ\Desktop\Nova pasta (4)\Nova pasta\TCC\TCC\obj\Debug\TCC.relProduto.resources
+C:\Users\WSJ\Desktop\Nova pasta (4)\Nova pasta\TCC\TCC\obj\Debug\TCC.csproj.GenerateResource.Cache
+C:\Users\WSJ\Desktop\Nova pasta (4)\Nova pasta\TCC\TCC\obj\Debug\RdlCompile.cache
+C:\Users\WSJ\Desktop\Nova pasta (4)\Nova pasta\TCC\TCC\obj\Debug\RdlCompile.compiled
+C:\Users\WSJ\Desktop\Nova pasta (4)\Nova pasta\TCC\TCC\obj\Debug\TCC.relVendas.resources
+C:\Users\WSJ\Desktop\Nova pasta (4)\Nova pasta\TCC\TCC\obj\Debug\TCC.frmRelatorio.resources
+C:\Users\WSJ\Desktop\Nova pasta (4)\Nova pasta\TCC\TCC\obj\Debug\TCC.relClientes.resources
+E:\Nova pasta (4)\Nova pasta\TCC\TCC\bin\Debug\TCC.exe.config
+E:\Nova pasta (4)\Nova pasta\TCC\TCC\obj\Debug\TCC.exe
+E:\Nova pasta (4)\Nova pasta\TCC\TCC\obj\Debug\TCC.pdb
+E:\Nova pasta (4)\Nova pasta\TCC\TCC\bin\Debug\TCC.exe
+E:\Nova pasta (4)\Nova pasta\TCC\TCC\bin\Debug\TCC.pdb
+E:\Nova pasta (4)\Nova pasta\TCC\TCC\obj\Debug\TCC.csprojResolveAssemblyReference.cache
+E:\Nova pasta (4)\Nova pasta\TCC\TCC\obj\Debug\TCC.Consulta.resources
+E:\Nova pasta (4)\Nova pasta\TCC\TCC\obj\Debug\TCC.Form1.resources
+E:\Nova pasta (4)\Nova pasta\TCC\TCC\obj\Debug\TCC.frmCliente.resources
+E:\Nova pasta (4)\Nova pasta\TCC\TCC\obj\Debug\TCC.frmRelatorio.resources
+E:\Nova pasta (4)\Nova pasta\TCC\TCC\obj\Debug\TCC.frmLogin.resources
+E:\Nova pasta (4)\Nova pasta\TCC\TCC\obj\Debug\TCC.frmMenu.resources
+E:\Nova pasta (4)\Nova pasta\TCC\TCC\obj\Debug\TCC.frmPoduto.resources
+E:\Nova pasta (4)\Nova pasta\TCC\TCC\obj\Debug\TCC.frmVendas.resources
+E:\Nova pasta (4)\Nova pasta\TCC\TCC\obj\Debug\TCC.Properties.Resources.resources
+E:\Nova pasta (4)\Nova pasta\TCC\TCC\obj\Debug\TCC.relClientes.resources
+E:\Nova pasta (4)\Nova pasta\TCC\TCC\obj\Debug\TCC.relProduto.resources
+E:\Nova pasta (4)\Nova pasta\TCC\TCC\obj\Debug\TCC.relVendas.resources
+E:\Nova pasta (4)\Nova pasta\TCC\TCC\obj\Debug\TCC.csproj.GenerateResource.Cache
+E:\Nova pasta (4)\Nova pasta\TCC\TCC\obj\Debug\RdlCompile.cache
+E:\Nova pasta (4)\Nova pasta\TCC\TCC\obj\Debug\RdlCompile.compiled
+C:\Users\WSJ\Desktop\Nova pasta (4)\TCC\TCC\obj\Debug\TCC.frmRelatorio.resources
+C:\Users\WSJ\Desktop\Nova pasta (4)\TCC\TCC\obj\Debug\TCC.relClientes.resources
+C:\Users\WSJ\Desktop\Nova pasta (4)\TCC\TCC\obj\Debug\TCC.relVendas.resources
+C:\Users\WSJ\Desktop\Nova pasta (4)\Nova pasta - Copia\TCC\TCC\bin\Debug\TCC.exe.config
+C:\Users\WSJ\Desktop\Nova pasta (4)\Nova pasta - Copia\TCC\TCC\obj\Debug\TCC.exe
+C:\Users\WSJ\Desktop\Nova pasta (4)\Nova pasta - Copia\TCC\TCC\obj\Debug\TCC.pdb
+C:\Users\WSJ\Desktop\Nova pasta (4)\Nova pasta - Copia\TCC\TCC\bin\Debug\TCC.exe
+C:\Users\WSJ\Desktop\Nova pasta (4)\Nova pasta - Copia\TCC\TCC\bin\Debug\TCC.pdb
+C:\Users\WSJ\Desktop\Nova pasta (4)\Nova pasta - Copia\TCC\TCC\obj\Debug\TCC.csprojResolveAssemblyReference.cache
+C:\Users\WSJ\Desktop\Nova pasta (4)\Nova pasta - Copia\TCC\TCC\obj\Debug\TCC.Consulta.resources
+C:\Users\WSJ\Desktop\Nova pasta (4)\Nova pasta - Copia\TCC\TCC\obj\Debug\TCC.Form1.resources
+C:\Users\WSJ\Desktop\Nova pasta (4)\Nova pasta - Copia\TCC\TCC\obj\Debug\TCC.frmCliente.resources
+C:\Users\WSJ\Desktop\Nova pasta (4)\Nova pasta - Copia\TCC\TCC\obj\Debug\TCC.frmRelatorio.resources
+C:\Users\WSJ\Desktop\Nova pasta (4)\Nova pasta - Copia\TCC\TCC\obj\Debug\TCC.frmLogin.resources
+C:\Users\WSJ\Desktop\Nova pasta (4)\Nova pasta - Copia\TCC\TCC\obj\Debug\TCC.frmMenu.resources
+C:\Users\WSJ\Desktop\Nova pasta (4)\Nova pasta - Copia\TCC\TCC\obj\Debug\TCC.frmPoduto.resources
+C:\Users\WSJ\Desktop\Nova pasta (4)\Nova pasta - Copia\TCC\TCC\obj\Debug\TCC.frmVendas.resources
+C:\Users\WSJ\Desktop\Nova pasta (4)\Nova pasta - Copia\TCC\TCC\obj\Debug\TCC.Properties.Resources.resources
+C:\Users\WSJ\Desktop\Nova pasta (4)\Nova pasta - Copia\TCC\TCC\obj\Debug\TCC.relClientes.resources
+C:\Users\WSJ\Desktop\Nova pasta (4)\Nova pasta - Copia\TCC\TCC\obj\Debug\TCC.relProduto.resources
+C:\Users\WSJ\Desktop\Nova pasta (4)\Nova pasta - Copia\TCC\TCC\obj\Debug\TCC.relVendas.resources
+C:\Users\WSJ\Desktop\Nova pasta (4)\Nova pasta - Copia\TCC\TCC\obj\Debug\TCC.csproj.GenerateResource.Cache
+C:\Users\WSJ\Desktop\Nova pasta (4)\Nova pasta - Copia\TCC\TCC\obj\Debug\RdlCompile.cache
+C:\Users\WSJ\Desktop\Nova pasta (4)\Nova pasta - Copia\TCC\TCC\obj\Debug\RdlCompile.compiled
+C:\Users\WSJ\Desktop\Nova pasta (4)\Nova pasta\Nova pasta - Copia\TCC\TCC\bin\Debug\TCC.exe.config
+C:\Users\WSJ\Desktop\Nova pasta (4)\Nova pasta\Nova pasta - Copia\TCC\TCC\obj\Debug\TCC.exe
+C:\Users\WSJ\Desktop\Nova pasta (4)\Nova pasta\Nova pasta - Copia\TCC\TCC\obj\Debug\TCC.pdb
+C:\Users\WSJ\Desktop\Nova pasta (4)\Nova pasta\Nova pasta - Copia\TCC\TCC\bin\Debug\TCC.exe
+C:\Users\WSJ\Desktop\Nova pasta (4)\Nova pasta\Nova pasta - Copia\TCC\TCC\bin\Debug\TCC.pdb
+C:\Users\WSJ\Desktop\Nova pasta (4)\Nova pasta\Nova pasta - Copia\TCC\TCC\obj\Debug\TCC.csprojResolveAssemblyReference.cache
+C:\Users\WSJ\Desktop\Nova pasta (4)\Nova pasta\Nova pasta - Copia\TCC\TCC\obj\Debug\TCC.Consulta.resources
+C:\Users\WSJ\Desktop\Nova pasta (4)\Nova pasta\Nova pasta - Copia\TCC\TCC\obj\Debug\TCC.Form1.resources
+C:\Users\WSJ\Desktop\Nova pasta (4)\Nova pasta\Nova pasta - Copia\TCC\TCC\obj\Debug\TCC.frmCliente.resources
+C:\Users\WSJ\Desktop\Nova pasta (4)\Nova pasta\Nova pasta - Copia\TCC\TCC\obj\Debug\TCC.frmRelatorio.resources
+C:\Users\WSJ\Desktop\Nova pasta (4)\Nova pasta\Nova pasta - Copia\TCC\TCC\obj\Debug\TCC.frmLogin.resources
+C:\Users\WSJ\Desktop\Nova pasta (4)\Nova pasta\Nova pasta - Copia\TCC\TCC\obj\Debug\TCC.frmMenu.resources
+C:\Users\WSJ\Desktop\Nova pasta (4)\Nova pasta\Nova pasta - Copia\TCC\TCC\obj\Debug\TCC.frmPoduto.resources
+C:\Users\WSJ\Desktop\Nova pasta (4)\Nova pasta\Nova pasta - Copia\TCC\TCC\obj\Debug\TCC.frmVendas.resources
+C:\Users\WSJ\Desktop\Nova pasta (4)\Nova pasta\Nova pasta - Copia\TCC\TCC\obj\Debug\TCC.Properties.Resources.resources
+C:\Users\WSJ\Desktop\Nova pasta (4)\Nova pasta\Nova pasta - Copia\TCC\TCC\obj\Debug\TCC.relClientes.resources
+C:\Users\WSJ\Desktop\Nova pasta (4)\Nova pasta\Nova pasta - Copia\TCC\TCC\obj\Debug\TCC.relProduto.resources
+C:\Users\WSJ\Desktop\Nova pasta (4)\Nova pasta\Nova pasta - Copia\TCC\TCC\obj\Debug\TCC.relVendas.resources
+C:\Users\WSJ\Desktop\Nova pasta (4)\Nova pasta\Nova pasta - Copia\TCC\TCC\obj\Debug\TCC.csproj.GenerateResource.Cache
+C:\Users\WSJ\Desktop\Nova pasta (4)\Nova pasta\Nova pasta - Copia\TCC\TCC\obj\Debug\RdlCompile.cache
+C:\Users\WSJ\Desktop\Nova pasta (4)\Nova pasta\Nova pasta - Copia\TCC\TCC\obj\Debug\RdlCompile.compiled
+C:\Users\WSJ\Desktop\parte de vendas\TCC\TCC\bin\Debug\TCC.exe.config
+C:\Users\WSJ\Desktop\parte de vendas\TCC\TCC\obj\Debug\TCC.exe
+C:\Users\WSJ\Desktop\parte de vendas\TCC\TCC\obj\Debug\TCC.pdb
+C:\Users\WSJ\Desktop\parte de vendas\TCC\TCC\obj\Debug\TCC.csprojResolveAssemblyReference.cache
+C:\Users\WSJ\Desktop\parte de vendas\TCC\TCC\obj\Debug\TCC.Consulta.resources
+C:\Users\WSJ\Desktop\parte de vendas\TCC\TCC\obj\Debug\TCC.Form1.resources
+C:\Users\WSJ\Desktop\parte de vendas\TCC\TCC\obj\Debug\TCC.frmCliente.resources
+C:\Users\WSJ\Desktop\parte de vendas\TCC\TCC\obj\Debug\TCC.frmRelatorio.resources
+C:\Users\WSJ\Desktop\parte de vendas\TCC\TCC\obj\Debug\TCC.frmLogin.resources
+C:\Users\WSJ\Desktop\parte de vendas\TCC\TCC\obj\Debug\TCC.frmMenu.resources
+C:\Users\WSJ\Desktop\parte de vendas\TCC\TCC\obj\Debug\TCC.frmPoduto.resources
+C:\Users\WSJ\Desktop\parte de vendas\TCC\TCC\obj\Debug\TCC.Properties.Resources.resources
+C:\Users\WSJ\Desktop\parte de vendas\TCC\TCC\obj\Debug\TCC.relClientes.resources
+C:\Users\WSJ\Desktop\parte de vendas\TCC\TCC\obj\Debug\TCC.relProduto.resources
+C:\Users\WSJ\Desktop\parte de vendas\TCC\TCC\obj\Debug\TCC.relVendas.resources
+C:\Users\WSJ\Desktop\parte de vendas\TCC\TCC\obj\Debug\TCC.csproj.GenerateResource.Cache
+C:\Users\WSJ\Desktop\parte de vendas\TCC\TCC\obj\Debug\RdlCompile.cache
+C:\Users\WSJ\Desktop\parte de vendas\TCC\TCC\obj\Debug\RdlCompile.compiled
+C:\Users\WSJ\Desktop\parte de vendas\TCC\TCC\bin\Debug\TCC.exe
+C:\Users\WSJ\Desktop\parte de vendas\TCC\TCC\bin\Debug\TCC.pdb
+C:\Users\WSJ\Desktop\parte de vendas\TCC\TCC\obj\Debug\TCC.frmVendas.resources
+C:\Users\WSJ\Desktop\TCC\TCC\bin\Debug\TCC.exe.config
+C:\Users\WSJ\Desktop\TCC\TCC\obj\Debug\TCC.exe
+C:\Users\WSJ\Desktop\TCC\TCC\obj\Debug\TCC.pdb
+C:\Users\WSJ\Desktop\TCC\TCC\obj\Debug\TCC.csprojResolveAssemblyReference.cache
+C:\Users\WSJ\Desktop\TCC\TCC\obj\Debug\TCC.Consulta.resources
+C:\Users\WSJ\Desktop\TCC\TCC\obj\Debug\TCC.Form1.resources
+C:\Users\WSJ\Desktop\TCC\TCC\obj\Debug\TCC.frmCliente.resources
+C:\Users\WSJ\Desktop\TCC\TCC\obj\Debug\TCC.frmRelatorio.resources
+C:\Users\WSJ\Desktop\TCC\TCC\obj\Debug\TCC.frmLogin.resources
+C:\Users\WSJ\Desktop\TCC\TCC\obj\Debug\TCC.frmMenu.resources
+C:\Users\WSJ\Desktop\TCC\TCC\obj\Debug\TCC.frmPoduto.resources
+C:\Users\WSJ\Desktop\TCC\TCC\obj\Debug\TCC.frmVendas.resources
+C:\Users\WSJ\Desktop\TCC\TCC\obj\Debug\TCC.Properties.Resources.resources
+C:\Users\WSJ\Desktop\TCC\TCC\obj\Debug\TCC.relClientes.resources
+C:\Users\WSJ\Desktop\TCC\TCC\obj\Debug\TCC.relProduto.resources
+C:\Users\WSJ\Desktop\TCC\TCC\obj\Debug\TCC.relVendas.resources
+C:\Users\WSJ\Desktop\TCC\TCC\obj\Debug\TCC.csproj.GenerateResource.Cache
+C:\Users\WSJ\Desktop\TCC\TCC\obj\Debug\RdlCompile.cache
+C:\Users\WSJ\Desktop\TCC\TCC\obj\Debug\RdlCompile.compiled
+C:\Users\WSJ\Desktop\TCC\TCC\bin\Debug\TCC.exe
+C:\Users\WSJ\Desktop\TCC\TCC\bin\Debug\TCC.pdb
+C:\Users\WSJ\Desktop\arrumar parte de foto\TCC\bin\Debug\TCC.exe.config
+C:\Users\WSJ\Desktop\arrumar parte de foto\TCC\obj\Debug\TCC.exe
+C:\Users\WSJ\Desktop\arrumar parte de foto\TCC\obj\Debug\TCC.pdb
+C:\Users\WSJ\Desktop\arrumar parte de foto\TCC\bin\Debug\TCC.exe
+C:\Users\WSJ\Desktop\arrumar parte de foto\TCC\bin\Debug\TCC.pdb
+C:\Users\WSJ\Desktop\arrumar parte de foto\TCC\obj\Debug\TCC.csprojResolveAssemblyReference.cache
+C:\Users\WSJ\Desktop\arrumar parte de foto\TCC\obj\Debug\TCC.Consulta.resources
+C:\Users\WSJ\Desktop\arrumar parte de foto\TCC\obj\Debug\TCC.Form1.resources
+C:\Users\WSJ\Desktop\arrumar parte de foto\TCC\obj\Debug\TCC.frmCliente.resources
+C:\Users\WSJ\Desktop\arrumar parte de foto\TCC\obj\Debug\TCC.frmRelatorio.resources
+C:\Users\WSJ\Desktop\arrumar parte de foto\TCC\obj\Debug\TCC.frmLogin.resources
+C:\Users\WSJ\Desktop\arrumar parte de foto\TCC\obj\Debug\TCC.frmMenu.resources
+C:\Users\WSJ\Desktop\arrumar parte de foto\TCC\obj\Debug\TCC.frmPoduto.resources
+C:\Users\WSJ\Desktop\arrumar parte de foto\TCC\obj\Debug\TCC.frmVendas.resources
+C:\Users\WSJ\Desktop\arrumar parte de foto\TCC\obj\Debug\TCC.Properties.Resources.resources
+C:\Users\WSJ\Desktop\arrumar parte de foto\TCC\obj\Debug\TCC.relClientes.resources
+C:\Users\WSJ\Desktop\arrumar parte de foto\TCC\obj\Debug\TCC.relProduto.resources
+C:\Users\WSJ\Desktop\arrumar parte de foto\TCC\obj\Debug\TCC.relVendas.resources
+C:\Users\WSJ\Desktop\arrumar parte de foto\TCC\obj\Debug\TCC.csproj.GenerateResource.Cache
+C:\Users\WSJ\Desktop\arrumar parte de foto\TCC\obj\Debug\RdlCompile.cache
+C:\Users\WSJ\Desktop\arrumar parte de foto\TCC\obj\Debug\RdlCompile.compiled
+C:\Users\Labinfo\Desktop\Nova pasta\TCC\bin\Debug\TCC.exe.config
+C:\Users\Labinfo\Desktop\Nova pasta\TCC\obj\Debug\TCC.exe
+C:\Users\Labinfo\Desktop\Nova pasta\TCC\obj\Debug\TCC.pdb
+C:\Users\Labinfo\Desktop\Nova pasta\TCC\bin\Debug\TCC.exe
+C:\Users\Labinfo\Desktop\Nova pasta\TCC\bin\Debug\TCC.pdb
+C:\Users\Labinfo\Desktop\Nova pasta\TCC\obj\Debug\TCC.csprojResolveAssemblyReference.cache
+C:\Users\Labinfo\Desktop\Nova pasta\TCC\obj\Debug\TCC.Consulta.resources
+C:\Users\Labinfo\Desktop\Nova pasta\TCC\obj\Debug\TCC.Form1.resources
+C:\Users\Labinfo\Desktop\Nova pasta\TCC\obj\Debug\TCC.frmCliente.resources
+C:\Users\Labinfo\Desktop\Nova pasta\TCC\obj\Debug\TCC.frmRelatorio.resources
+C:\Users\Labinfo\Desktop\Nova pasta\TCC\obj\Debug\TCC.frmLogin.resources
+C:\Users\Labinfo\Desktop\Nova pasta\TCC\obj\Debug\TCC.frmMenu.resources
+C:\Users\Labinfo\Desktop\Nova pasta\TCC\obj\Debug\TCC.frmPoduto.resources
+C:\Users\Labinfo\Desktop\Nova pasta\TCC\obj\Debug\TCC.frmVendas.resources
+C:\Users\Labinfo\Desktop\Nova pasta\TCC\obj\Debug\TCC.Properties.Resources.resources
+C:\Users\Labinfo\Desktop\Nova pasta\TCC\obj\Debug\TCC.relClientes.resources
+C:\Users\Labinfo\Desktop\Nova pasta\TCC\obj\Debug\TCC.relProduto.resources
+C:\Users\Labinfo\Desktop\Nova pasta\TCC\obj\Debug\TCC.relVendas.resources
+C:\Users\Labinfo\Desktop\Nova pasta\TCC\obj\Debug\TCC.csproj.GenerateResource.Cache
+C:\Users\Labinfo\Desktop\Nova pasta\TCC\obj\Debug\RdlCompile.cache
+C:\Users\Labinfo\Desktop\Nova pasta\TCC\obj\Debug\RdlCompile.compiled
+C:\Users\Labinfo\Desktop\Nova pasta\TCC\obj\Debug\TCC.frmItensVenda.resources
+E:\Nova pasta\TCC\bin\Debug\TCC.exe.config
+E:\Nova pasta\TCC\obj\Debug\TCC.exe
+E:\Nova pasta\TCC\obj\Debug\TCC.pdb
+E:\Nova pasta\TCC\bin\Debug\TCC.exe
+E:\Nova pasta\TCC\bin\Debug\TCC.pdb
+E:\Nova pasta\TCC\obj\Debug\TCC.csprojResolveAssemblyReference.cache
+E:\Nova pasta\TCC\obj\Debug\TCC.Consulta.resources
+E:\Nova pasta\TCC\obj\Debug\TCC.Form1.resources
+E:\Nova pasta\TCC\obj\Debug\TCC.frmCliente.resources
+E:\Nova pasta\TCC\obj\Debug\TCC.frmItensVenda.resources
+E:\Nova pasta\TCC\obj\Debug\TCC.frmProdutos.resources
+E:\Nova pasta\TCC\obj\Debug\TCC.frmRelatorio.resources
+E:\Nova pasta\TCC\obj\Debug\TCC.frmLogin.resources
+E:\Nova pasta\TCC\obj\Debug\TCC.frmMenu.resources
+E:\Nova pasta\TCC\obj\Debug\TCC.frmPoduto.resources
+E:\Nova pasta\TCC\obj\Debug\TCC.frmVendas.resources
+E:\Nova pasta\TCC\obj\Debug\TCC.Properties.Resources.resources
+E:\Nova pasta\TCC\obj\Debug\TCC.relClientes.resources
+E:\Nova pasta\TCC\obj\Debug\TCC.relProduto.resources
+E:\Nova pasta\TCC\obj\Debug\TCC.relVendas.resources
+E:\Nova pasta\TCC\obj\Debug\TCC.csproj.GenerateResource.Cache
+E:\Nova pasta\TCC\obj\Debug\RdlCompile.cache
+E:\Nova pasta\TCC\obj\Debug\RdlCompile.compiled
+C:\Users\WSJ\Desktop\tcc 06-11\TCC\bin\Debug\TCC.exe.config
+C:\Users\WSJ\Desktop\tcc 06-11\TCC\obj\Debug\TCC.exe
+C:\Users\WSJ\Desktop\tcc 06-11\TCC\obj\Debug\TCC.pdb
+C:\Users\WSJ\Desktop\Nova pasta\TCC\bin\Debug\TCC.exe.config
+C:\Users\WSJ\Desktop\Nova pasta\TCC\obj\Debug\TCC.exe
+C:\Users\WSJ\Desktop\Nova pasta\TCC\obj\Debug\TCC.pdb
+C:\Users\WSJ\Desktop\Nova pasta\TCC\obj\Debug\TCC.csprojResolveAssemblyReference.cache
+C:\Users\WSJ\Desktop\Nova pasta\TCC\obj\Debug\TCC.Consulta.resources
+C:\Users\WSJ\Desktop\Nova pasta\TCC\obj\Debug\TCC.Form1.resources
+C:\Users\WSJ\Desktop\Nova pasta\TCC\obj\Debug\TCC.frmCliente.resources
+C:\Users\WSJ\Desktop\Nova pasta\TCC\obj\Debug\TCC.frmItensVenda.resources
+C:\Users\WSJ\Desktop\Nova pasta\TCC\obj\Debug\TCC.frmProdutos.resources
+C:\Users\WSJ\Desktop\Nova pasta\TCC\obj\Debug\TCC.frmRelatorio.resources
+C:\Users\WSJ\Desktop\Nova pasta\TCC\obj\Debug\TCC.frmLogin.resources
+C:\Users\WSJ\Desktop\Nova pasta\TCC\obj\Debug\TCC.frmMenu.resources
+C:\Users\WSJ\Desktop\Nova pasta\TCC\obj\Debug\TCC.frmPoduto.resources
+C:\Users\WSJ\Desktop\Nova pasta\TCC\obj\Debug\TCC.frmVendas.resources
+C:\Users\WSJ\Desktop\Nova pasta\TCC\obj\Debug\TCC.Properties.Resources.resources
+C:\Users\WSJ\Desktop\Nova pasta\TCC\obj\Debug\TCC.relClientes.resources
+C:\Users\WSJ\Desktop\Nova pasta\TCC\obj\Debug\TCC.relProduto.resources
+C:\Users\WSJ\Desktop\Nova pasta\TCC\obj\Debug\TCC.relVendas.resources
+C:\Users\WSJ\Desktop\Nova pasta\TCC\obj\Debug\TCC.csproj.GenerateResource.Cache
+C:\Users\WSJ\Desktop\Nova pasta\TCC\obj\Debug\RdlCompile.cache
+C:\Users\WSJ\Desktop\Nova pasta\TCC\obj\Debug\RdlCompile.compiled
+C:\Users\WSJ\Desktop\Nova pasta\TCC\bin\Debug\TCC.exe
+C:\Users\WSJ\Desktop\Nova pasta\TCC\bin\Debug\TCC.pdb
+C:\Users\WSJ\Desktop\Nova pasta\TCC\obj\Debug\TCC.FrmBuscar.resources
+C:\Users\WSJ\Desktop\LP aulas do almir\Nova pasta\TCC\bin\Debug\TCC.exe.config
+C:\Users\WSJ\Desktop\LP aulas do almir\Nova pasta\TCC\obj\Debug\TCC.exe
+C:\Users\WSJ\Desktop\LP aulas do almir\Nova pasta\TCC\obj\Debug\TCC.csprojResolveAssemblyReference.cache
+C:\Users\WSJ\Desktop\LP aulas do almir\Nova pasta\TCC\obj\Debug\TCC.Consulta.resources
+C:\Users\WSJ\Desktop\LP aulas do almir\Nova pasta\TCC\obj\Debug\TCC.Form1.resources
+C:\Users\WSJ\Desktop\LP aulas do almir\Nova pasta\TCC\obj\Debug\TCC.FrmBuscar.resources
+C:\Users\WSJ\Desktop\LP aulas do almir\Nova pasta\TCC\obj\Debug\TCC.frmCliente.resources
+C:\Users\WSJ\Desktop\LP aulas do almir\Nova pasta\TCC\obj\Debug\TCC.frmItensVenda.resources
+C:\Users\WSJ\Desktop\LP aulas do almir\Nova pasta\TCC\obj\Debug\TCC.frmProdutos.resources
+C:\Users\WSJ\Desktop\LP aulas do almir\Nova pasta\TCC\obj\Debug\TCC.frmRelatorio.resources
+C:\Users\WSJ\Desktop\LP aulas do almir\Nova pasta\TCC\obj\Debug\TCC.frmLogin.resources
+C:\Users\WSJ\Desktop\LP aulas do almir\Nova pasta\TCC\obj\Debug\TCC.frmMenu.resources
+C:\Users\WSJ\Desktop\LP aulas do almir\Nova pasta\TCC\obj\Debug\TCC.frmPoduto.resources
+C:\Users\WSJ\Desktop\LP aulas do almir\Nova pasta\TCC\obj\Debug\TCC.frmVendas.resources
+C:\Users\WSJ\Desktop\LP aulas do almir\Nova pasta\TCC\obj\Debug\TCC.Properties.Resources.resources
+C:\Users\WSJ\Desktop\LP aulas do almir\Nova pasta\TCC\obj\Debug\TCC.relClientes.resources
+C:\Users\WSJ\Desktop\LP aulas do almir\Nova pasta\TCC\obj\Debug\TCC.relProduto.resources
+C:\Users\WSJ\Desktop\LP aulas do almir\Nova pasta\TCC\obj\Debug\TCC.relVendas.resources
+C:\Users\WSJ\Desktop\LP aulas do almir\Nova pasta\TCC\obj\Debug\TCC.csproj.GenerateResource.Cache
+C:\Users\WSJ\Desktop\LP aulas do almir\Nova pasta\TCC\obj\Debug\RdlCompile.cache
+C:\Users\WSJ\Desktop\LP aulas do almir\Nova pasta\TCC\obj\Debug\RdlCompile.compiled
+C:\Users\WSJ\Desktop\LP aulas do almir\Nova pasta\TCC\bin\Debug\TCC.exe
+C:\Users\WSJ\Desktop\LP aulas do almir\Nova pasta\TCC\bin\Debug\TCC.pdb
+C:\Users\WSJ\Desktop\LP aulas do almir\Nova pasta\TCC\obj\Debug\TCC.pdb
+C:\Users\WSJ\Desktop\LP aulas do almir\teste\TCC\bin\Debug\TCC.exe.config
+C:\Users\WSJ\Desktop\LP aulas do almir\teste\TCC\obj\Debug\TCC.exe
+C:\Users\WSJ\Desktop\LP aulas do almir\teste\TCC\obj\Debug\TCC.pdb
+C:\Users\WSJ\Desktop\LP aulas do almir\teste\TCC\obj\Debug\TCC.csprojResolveAssemblyReference.cache
+C:\Users\WSJ\Desktop\LP aulas do almir\teste\TCC\obj\Debug\TCC.Consulta.resources
+C:\Users\WSJ\Desktop\LP aulas do almir\teste\TCC\obj\Debug\TCC.Form1.resources
+C:\Users\WSJ\Desktop\LP aulas do almir\teste\TCC\obj\Debug\TCC.FrmBuscar.resources
+C:\Users\WSJ\Desktop\LP aulas do almir\teste\TCC\obj\Debug\TCC.frmCliente.resources
+C:\Users\WSJ\Desktop\LP aulas do almir\teste\TCC\obj\Debug\TCC.frmItensVenda.resources
+C:\Users\WSJ\Desktop\LP aulas do almir\teste\TCC\obj\Debug\TCC.frmProdutos.resources
+C:\Users\WSJ\Desktop\LP aulas do almir\teste\TCC\obj\Debug\TCC.frmRelatorio.resources
+C:\Users\WSJ\Desktop\LP aulas do almir\teste\TCC\obj\Debug\TCC.frmLogin.resources
+C:\Users\WSJ\Desktop\LP aulas do almir\teste\TCC\obj\Debug\TCC.frmMenu.resources
+C:\Users\WSJ\Desktop\LP aulas do almir\teste\TCC\obj\Debug\TCC.frmVendas.resources
+C:\Users\WSJ\Desktop\LP aulas do almir\teste\TCC\obj\Debug\TCC.Properties.Resources.resources
+C:\Users\WSJ\Desktop\LP aulas do almir\teste\TCC\obj\Debug\TCC.relClientes.resources
+C:\Users\WSJ\Desktop\LP aulas do almir\teste\TCC\obj\Debug\TCC.relProduto.resources
+C:\Users\WSJ\Desktop\LP aulas do almir\teste\TCC\obj\Debug\TCC.relVendas.resources
+C:\Users\WSJ\Desktop\LP aulas do almir\teste\TCC\obj\Debug\TCC.csproj.GenerateResource.Cache
+C:\Users\WSJ\Desktop\LP aulas do almir\teste\TCC\obj\Debug\RdlCompile.cache
+C:\Users\WSJ\Desktop\LP aulas do almir\teste\TCC\obj\Debug\RdlCompile.compiled
+C:\Users\WSJ\Desktop\LP aulas do almir\teste\TCC\bin\Debug\TCC.exe
+C:\Users\WSJ\Desktop\LP aulas do almir\teste\TCC\bin\Debug\TCC.pdb
+C:\Users\WSJ\Desktop\LP aulas do almir\mostrar para o almir ver quarta feira\TCC\bin\Debug\TCC.exe.config
+C:\Users\WSJ\Desktop\LP aulas do almir\mostrar para o almir ver quarta feira\TCC\obj\Debug\TCC.exe
+C:\Users\WSJ\Desktop\LP aulas do almir\mostrar para o almir ver quarta feira\TCC\obj\Debug\TCC.pdb
+C:\Users\WSJ\Desktop\LP aulas do almir\mostrar para o almir ver quarta feira\TCC\bin\Debug\TCC.exe
+C:\Users\WSJ\Desktop\LP aulas do almir\mostrar para o almir ver quarta feira\TCC\bin\Debug\TCC.pdb
+C:\Users\WSJ\Desktop\LP aulas do almir\mostrar para o almir ver quarta feira\TCC\obj\Debug\TCC.csprojResolveAssemblyReference.cache
+C:\Users\WSJ\Desktop\LP aulas do almir\mostrar para o almir ver quarta feira\TCC\obj\Debug\TCC.Consulta.resources
+C:\Users\WSJ\Desktop\LP aulas do almir\mostrar para o almir ver quarta feira\TCC\obj\Debug\TCC.Form1.resources
+C:\Users\WSJ\Desktop\LP aulas do almir\mostrar para o almir ver quarta feira\TCC\obj\Debug\TCC.FrmBuscar.resources
+C:\Users\WSJ\Desktop\LP aulas do almir\mostrar para o almir ver quarta feira\TCC\obj\Debug\TCC.frmCliente.resources
+C:\Users\WSJ\Desktop\LP aulas do almir\mostrar para o almir ver quarta feira\TCC\obj\Debug\TCC.frmItensVenda.resources
+C:\Users\WSJ\Desktop\LP aulas do almir\mostrar para o almir ver quarta feira\TCC\obj\Debug\TCC.frmProdutos.resources
+C:\Users\WSJ\Desktop\LP aulas do almir\mostrar para o almir ver quarta feira\TCC\obj\Debug\TCC.frmRelatorio.resources
+C:\Users\WSJ\Desktop\LP aulas do almir\mostrar para o almir ver quarta feira\TCC\obj\Debug\TCC.frmLogin.resources
+C:\Users\WSJ\Desktop\LP aulas do almir\mostrar para o almir ver quarta feira\TCC\obj\Debug\TCC.frmMenu.resources
+C:\Users\WSJ\Desktop\LP aulas do almir\mostrar para o almir ver quarta feira\TCC\obj\Debug\TCC.frmVendas.resources
+C:\Users\WSJ\Desktop\LP aulas do almir\mostrar para o almir ver quarta feira\TCC\obj\Debug\TCC.Properties.Resources.resources
+C:\Users\WSJ\Desktop\LP aulas do almir\mostrar para o almir ver quarta feira\TCC\obj\Debug\TCC.relClientes.resources
+C:\Users\WSJ\Desktop\LP aulas do almir\mostrar para o almir ver quarta feira\TCC\obj\Debug\TCC.relProduto.resources
+C:\Users\WSJ\Desktop\LP aulas do almir\mostrar para o almir ver quarta feira\TCC\obj\Debug\TCC.relVendas.resources
+C:\Users\WSJ\Desktop\LP aulas do almir\mostrar para o almir ver quarta feira\TCC\obj\Debug\TCC.csproj.GenerateResource.Cache
+C:\Users\WSJ\Desktop\LP aulas do almir\mostrar para o almir ver quarta feira\TCC\obj\Debug\RdlCompile.cache
+C:\Users\WSJ\Desktop\LP aulas do almir\mostrar para o almir ver quarta feira\TCC\obj\Debug\RdlCompile.compiled
+C:\Users\WSJ\Desktop\IFSP\tcc\TCC\bin\Debug\TCC.exe.config
+C:\Users\WSJ\Desktop\IFSP\tcc\TCC\obj\Debug\TCC.exe
+C:\Users\WSJ\Desktop\IFSP\tcc\TCC\obj\Debug\TCC.pdb
+C:\Users\WSJ\Desktop\IFSP\tcc\TCC\bin\Debug\TCC.exe
+C:\Users\WSJ\Desktop\IFSP\tcc\TCC\bin\Debug\TCC.pdb
+C:\Users\WSJ\Desktop\IFSP\tcc\TCC\obj\Debug\TCC.csprojResolveAssemblyReference.cache
+C:\Users\WSJ\Desktop\IFSP\tcc\TCC\obj\Debug\TCC.Consulta.resources
+C:\Users\WSJ\Desktop\IFSP\tcc\TCC\obj\Debug\TCC.Form1.resources
+C:\Users\WSJ\Desktop\IFSP\tcc\TCC\obj\Debug\TCC.FrmBuscar.resources
+C:\Users\WSJ\Desktop\IFSP\tcc\TCC\obj\Debug\TCC.frmCliente.resources
+C:\Users\WSJ\Desktop\IFSP\tcc\TCC\obj\Debug\TCC.frmItensVenda.resources
+C:\Users\WSJ\Desktop\IFSP\tcc\TCC\obj\Debug\TCC.frmProdutos.resources
+C:\Users\WSJ\Desktop\IFSP\tcc\TCC\obj\Debug\TCC.frmRelatorio.resources
+C:\Users\WSJ\Desktop\IFSP\tcc\TCC\obj\Debug\TCC.frmLogin.resources
+C:\Users\WSJ\Desktop\IFSP\tcc\TCC\obj\Debug\TCC.frmMenu.resources
+C:\Users\WSJ\Desktop\IFSP\tcc\TCC\obj\Debug\TCC.frmVendas.resources
+C:\Users\WSJ\Desktop\IFSP\tcc\TCC\obj\Debug\TCC.Properties.Resources.resources
+C:\Users\WSJ\Desktop\IFSP\tcc\TCC\obj\Debug\TCC.relClientes.resources
+C:\Users\WSJ\Desktop\IFSP\tcc\TCC\obj\Debug\TCC.relProduto.resources
+C:\Users\WSJ\Desktop\IFSP\tcc\TCC\obj\Debug\TCC.relVendas.resources
+C:\Users\WSJ\Desktop\IFSP\tcc\TCC\obj\Debug\TCC.csproj.GenerateResource.Cache
+C:\Users\WSJ\Desktop\IFSP\tcc\TCC\obj\Debug\RdlCompile.cache
+C:\Users\WSJ\Desktop\IFSP\tcc\TCC\obj\Debug\RdlCompile.compiled
+C:\Users\WSJ\Desktop\passar para o cd\tcc\TCC\bin\Debug\TCC.exe.config
+C:\Users\WSJ\Desktop\passar para o cd\tcc\TCC\obj\Debug\TCC.exe
+C:\Users\WSJ\Desktop\passar para o cd\tcc\TCC\obj\Debug\TCC.pdb
+C:\Users\WSJ\Desktop\passar para o cd\tcc\TCC\bin\Debug\TCC.exe
+C:\Users\WSJ\Desktop\passar para o cd\tcc\TCC\bin\Debug\TCC.pdb
+C:\Users\WSJ\Desktop\passar para o cd\tcc\TCC\obj\Debug\TCC.csprojResolveAssemblyReference.cache
+C:\Users\WSJ\Desktop\passar para o cd\tcc\TCC\obj\Debug\TCC.Form1.resources
+C:\Users\WSJ\Desktop\passar para o cd\tcc\TCC\obj\Debug\TCC.FrmBuscar.resources
+C:\Users\WSJ\Desktop\passar para o cd\tcc\TCC\obj\Debug\TCC.frmCliente.resources
+C:\Users\WSJ\Desktop\passar para o cd\tcc\TCC\obj\Debug\TCC.frmItensVenda.resources
+C:\Users\WSJ\Desktop\passar para o cd\tcc\TCC\obj\Debug\TCC.frmProdutos.resources
+C:\Users\WSJ\Desktop\passar para o cd\tcc\TCC\obj\Debug\TCC.frmRelatorio.resources
+C:\Users\WSJ\Desktop\passar para o cd\tcc\TCC\obj\Debug\TCC.frmMenu.resources
+C:\Users\WSJ\Desktop\passar para o cd\tcc\TCC\obj\Debug\TCC.frmVendas.resources
+C:\Users\WSJ\Desktop\passar para o cd\tcc\TCC\obj\Debug\TCC.Properties.Resources.resources
+C:\Users\WSJ\Desktop\passar para o cd\tcc\TCC\obj\Debug\TCC.relClientes.resources
+C:\Users\WSJ\Desktop\passar para o cd\tcc\TCC\obj\Debug\TCC.relProduto.resources
+C:\Users\WSJ\Desktop\passar para o cd\tcc\TCC\obj\Debug\TCC.relVendas.resources
+C:\Users\WSJ\Desktop\passar para o cd\tcc\TCC\obj\Debug\TCC.csproj.GenerateResource.Cache
+C:\Users\WSJ\Desktop\passar para o cd\tcc\TCC\obj\Debug\RdlCompile.cache
+C:\Users\WSJ\Desktop\passar para o cd\tcc\TCC\obj\Debug\RdlCompile.compiled
+E:\passar para o cd\tcc\TCC\bin\Debug\TCC.exe.config
+E:\passar para o cd\tcc\TCC\obj\Debug\TCC.exe
+E:\passar para o cd\tcc\TCC\obj\Debug\TCC.pdb
+E:\passar para o cd\tcc\TCC\bin\Debug\TCC.exe
+E:\passar para o cd\tcc\TCC\bin\Debug\TCC.pdb
+E:\passar para o cd\tcc\TCC\obj\Debug\TCC.csprojResolveAssemblyReference.cache
+E:\passar para o cd\tcc\TCC\obj\Debug\TCC.Form1.resources
+E:\passar para o cd\tcc\TCC\obj\Debug\TCC.FrmBuscar.resources
+E:\passar para o cd\tcc\TCC\obj\Debug\TCC.frmCliente.resources
+E:\passar para o cd\tcc\TCC\obj\Debug\TCC.frmItensVenda.resources
+E:\passar para o cd\tcc\TCC\obj\Debug\TCC.frmProdutos.resources
+E:\passar para o cd\tcc\TCC\obj\Debug\TCC.frmRelatorio.resources
+E:\passar para o cd\tcc\TCC\obj\Debug\TCC.frmMenu.resources
+E:\passar para o cd\tcc\TCC\obj\Debug\TCC.frmVendas.resources
+E:\passar para o cd\tcc\TCC\obj\Debug\TCC.Properties.Resources.resources
+E:\passar para o cd\tcc\TCC\obj\Debug\TCC.relClientes.resources
+E:\passar para o cd\tcc\TCC\obj\Debug\TCC.relProduto.resources
+E:\passar para o cd\tcc\TCC\obj\Debug\TCC.relVendas.resources
+E:\passar para o cd\tcc\TCC\obj\Debug\TCC.csproj.GenerateResource.Cache
+E:\passar para o cd\tcc\TCC\obj\Debug\RdlCompile.cache
+E:\passar para o cd\tcc\TCC\obj\Debug\RdlCompile.compiled
